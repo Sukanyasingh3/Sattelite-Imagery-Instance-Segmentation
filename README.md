@@ -1,4 +1,4 @@
-# Sattelite-Imagery-Instance-Segmentation
+# Instance Segmentation in Sattelite Imagery
 
 ## Predictions:
 ![image](https://github.com/user-attachments/assets/1b3889b9-86b2-4a46-a31d-7b3a02a63b8a)
